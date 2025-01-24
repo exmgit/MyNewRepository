@@ -4,7 +4,7 @@ package mypac;
 import java.io.*;
 import java.util.*;
 
-class stem {
+class Stem {
 
     // function to find the stem (longest common
     // substring) from the string  array
